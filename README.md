@@ -1,5 +1,5 @@
-# Implementação de uma simples API para realização de um CRUD. 
- > Foi utilizada uma entidade **Produto**
+## Implementação de uma simples API para realização de um CRUD. 
+ Foi utilizada uma entidade **Produto**
  
  ## Libs e tecnologias utilizadas.
  - **Express.Js** (Para criação da API e gerenciamento da route). 
